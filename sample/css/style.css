@@ -165,7 +165,10 @@ a:focus {
 }
 
 .slider_section .detail-box h1 span {
-  color: #e93f1a;
+   color: #e93f1a;
+  display:inline;
+  background-color: rgba(255, 255, 255, 0.5);
+  line-height: 1.5;
 }
 
 .slider_section .detail-box p {
