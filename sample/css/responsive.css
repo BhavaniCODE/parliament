@@ -85,7 +85,7 @@
 }
 
 @media (max-width: 800px) {
-    .info_section .footer_contact .box {
+    .footer_section .footer_contact .box {
       flex-direction: column;
     }
   }
