@@ -416,7 +416,7 @@ a:focus {
   border-collapse: collapse;
   margin: 0;
   font-size: 0.9em;
-  max-width: 450px;
+  width: 335px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
   text-align: center;
   
@@ -463,7 +463,7 @@ display: flex;
 */
 .contact_section .contact_form a {
   display: inline-block;
-  padding: 8px 35px;
+  padding: 8px 61px;
   background-color: #e93f1a;
   color: #ffffff;
   -webkit-transition: all 0.3s;
