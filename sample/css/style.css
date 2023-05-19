@@ -533,7 +533,7 @@ display: flex;
 }  
 
 .flex-child:first-child {
-  margin-right: 20px;
+  margin-right: 0;
 }
 
 /* client_section 
