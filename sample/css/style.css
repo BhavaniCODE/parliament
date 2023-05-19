@@ -532,9 +532,6 @@ display: flex;
   padding: 20px 30px;
 }  
 
-.flex-child:first-child {
-  margin-right: 0;
-}
 
 /* client_section 
 .client_section {
