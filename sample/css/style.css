@@ -334,6 +334,7 @@ a:focus {
 .about_section .detail-box p {
   margin-top: 1rem;
   margin-bottom: 1rem;
+  text-align: justify;
 }
 
 .body_bg {
@@ -375,16 +376,28 @@ a:focus {
   width: 100%;
 }
 
+.discription {
+  color: #5c068e;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
 .service_section .box h4 {
   margin-top: 5px;
   color:#b80909
 }
 .service_section .box li {
-  margin-top:5px;
-  list-style-position: inside;
+  margin-top: 5px;
+  list-style-position: outside;
+  margin-left: 2px;
+  line-height: 2rem;
 
 }
-
+.service_section span {
+  color: #160a9b;
+  line-height: 2rem;
+  margin-left: 1.5rem;
+}
 .service_section .box a {
   padding: 6px 25px;
   border: 1px solid #e93f1a;
@@ -512,7 +525,10 @@ display: flex;
   font-weight: 600;
   border: 15px solid transparent;
   padding: 0 31px;
-  color: #c91f1f;
+ 
+}
+.client_section .contact_bg h4 {
+  color:#d91e1e;
 }
 
 .client_section .heading_container {
